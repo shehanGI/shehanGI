@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shehanGI
+- 👋 Hi, I’m @shehan Gamage
 - 👀 I’m interested in network development
 - 🌱 I’m currently learning network technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on network developing, network designing  
 - 📫 can contact via whatsapp facebook linkedin
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
